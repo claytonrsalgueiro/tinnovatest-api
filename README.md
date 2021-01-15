@@ -1,6 +1,8 @@
 # tinnovatest-api
 Api desenvolvida para um CRUD de cadastro de veículos<br/>
 
+-- Deverá ser utilizado a branch master para os testes e análises.
+
 --> A aplicação está configurada com o banco de dados H2 na pasta /target. Por isso, todas as vezes que é executado o clean install, o banco de dados é deletado.<br/>
 
 --> Ao subir a aplicação, o springboot criará as tabelas necessárias conforme mapeamento das entidades;<br/>
