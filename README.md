@@ -7,4 +7,6 @@ Api desenvolvida para um CRUD de cadastro de veículos<br/>
 
 --> A porta padrão da aplicação está configurada para 8082;<br/>
 
---> Para teste da aplicação, sugiro que seja utilizado a documentação do Swagger localizado no endereço http://localhost:9661/app-back/swagger-ui.html. O usuário é: tinnova e a senha é: test.
+--> Para teste da aplicação, sugiro que seja utilizado a documentação do Swagger localizado no endereço http://localhost:9661/app-back/swagger-ui.html. O usuário é: tinnova e a senha é: test.<br/>
+
+--> Caso os testes forem feitos por alguma outra ferramenta, como por exemplo o POSTMAN, a aplicação está configurada para acessos via HttpBasic no qual o usuário é: tinnova e a senha é: test.<br/>
